@@ -1,0 +1,46 @@
+{
+    "projects": [{
+        "id": "",
+        "name!": "Executive Dashboard",
+        "shortDescription!": "",
+        "description": "Project Description",
+        "startDate": "",
+        "endDate": "// need to discuss with Relton -- lastReleaseDate?",
+        "lastUpdated": "",
+        "releaseDate": "// Varies from screenshot to screenshot, should this be a text field to be given input ?",
+        "productLogo": "//  Do we store logo in S3 or in DB ?",
+        "invisionLink": "// To display project images--- To be removed ",
+        "users!": [{
+            "user_id": "",
+            "name": "",
+            "role": ["PRODUCT_OWNER", "TEAM"]
+        }],
+        "releases": [{
+            "number!": "",
+            "status": "YET To Start, In progress, At Risk, Accomplished",
+            "startDate!": "Jun 19 2018",
+            "releaseDate!": "",
+            "noOfSprints": "2",
+            "duration": "2",
+            "sprintType": "STANDARD/CUSTOM",
+            "sprints": [{
+                "sprintNumber": "Unique Value --> auto populate next sprint number",
+                "startDate": "Jun 19 2018",
+                "endDate": "Jun 19 2018 + 2.weeks",
+                "status": "YET To Start, In progress, At Risk, Accomplished"
+            }]
+        }],
+        "themes": {
+            "colorName": ""
+        }
+    }],
+    "activities": [{
+        "projectID": "",
+        "projectName": "",
+        "type": "RELEASE/SPRINT",
+        "title": "",
+        "description": "",
+        "accomplished": "Boolean",
+        "listOfTypeNumbers": ["1", "2","3"]
+    }]
+}
