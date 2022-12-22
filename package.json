@@ -25,7 +25,7 @@
     "graphql-tools": "^3.0.1",
     "graphql-type-json": "^0.2.1",
     "jira-connector": "^2.8.0",
-    "jsonwebtoken": "^8.3.0",
+    "jsonwebtoken": "^9.0.0",
     "lowdb": "^1.0.0",
     "mongoose": "^5.1.1",
     "mongoose-regex-search": "^0.5.0",
